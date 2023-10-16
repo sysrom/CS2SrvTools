@@ -1,3 +1,5 @@
+# CS2SrvTools
+一个CS2的开服工具
 # CS2SrvTools食用方法
 1.启动游戏点击Auto Detect自动选择游戏文件/手动选择cs2.exe <br>
 2.选择游戏模式和地图，地图请前往Counter-Strike Global Offensive\game\csgo\maps\下寻找 <br>
